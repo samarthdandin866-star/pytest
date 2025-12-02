@@ -1,4 +1,4 @@
-import pytest
+
 def employee_details(name, emp_id, department, salary):
     result=(
     f"Emplyoee Name: {name}\n"
